@@ -5,8 +5,11 @@
 // Commit 3: "refactored variable names for clarity"
 
 
+// Kata 1: Print the first 10 even numbers
+// Commit 1: scaffold loop structure
+
 for (let i = 1; i <= 20; i++) {
-  if (i % 2 === 0) {
-    console.log(i);
-  }
+  console.log(i);
 }
+
+ 
