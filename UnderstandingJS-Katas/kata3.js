@@ -1,5 +1,5 @@
 // Kata 3: Multiplication table using nested loops
-// Commit 1: scaffold nested loops
+// Commit 2: added multiplication logic
 
 for (let i = 1; i <= 5; i++) {
 let row ="";
