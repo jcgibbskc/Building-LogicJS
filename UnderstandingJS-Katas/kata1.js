@@ -1,14 +1,6 @@
-// Kata 2: FizzBuzz from 1 to 20
-// Commit 2: added fizzbuzz logic
+// Kata 1: Print the first 10 even numbers
+// Commit 1: scaffold loop structure
 
 for (let i = 1; i <= 20; i++) {
-  if (i % 3 === 0 && i % 5 === 0) {
-    console.log("FizzBuzz");
-  } else if (i % 3 === 0) {
-    console.log("Fizz");
-  } else if (i % 5 === 0) {
-    console.log("Buzz");
-  } else {
-    console.log(i);
-  }
+  console.log(i);
 }
